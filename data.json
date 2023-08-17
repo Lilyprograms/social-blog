@@ -1,0 +1,31 @@
+{
+  "feeds": [
+    {
+      "id": 1,
+      "title": "Is TypeScript only good for production",
+      "body": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Illum ipsam minus architecto temporibus provident iusto ipsum eaque in sed neque? Iure repellendus sint voluptatum corrupti consequuntur molestiae dolorum dolor in.",
+      "likes": 0,
+      "dislikes": 0,
+      "category": "Technology",
+      "img": "https://hpe-developer-portal.s3.amazonaws.com/uploads/media/2019/8/typescriptimage-1568052628959.jpeg",
+      "author": "Janet Holand",
+      "date_created": "17/08/2023"
+    }
+  ],
+  "categories": [
+    { "id": 1, "category": "Technology" },
+    { "id": 2, "category": "Finance" }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "first_name": "Janet",
+      "last_name": "Holand",
+      "gender": "female",
+      "date_of_birth": "19/02/1980",
+      "email": "janetholand@gmail.com",
+      "phone": "+2347012345678",
+      "location": "Nigeria"
+    }
+  ]
+}
